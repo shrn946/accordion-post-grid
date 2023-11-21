@@ -1,5 +1,5 @@
-var ANIMATION_SPEED = 500
-var SCROLL_SPEED = 200
+var ANIMATION_SPEED = 1000
+var SCROLL_SPEED = 300
 
 // Adjust card-details position relative to grid based on changing number of
 // columns per row.
